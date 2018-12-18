@@ -37,5 +37,7 @@ Now set the HFR (High Frame Rate) from 250 to 1000Hz:
 - the duration shows 40 as 2x20=40
 
 ## IMPORTANT
+In contrast to the manual, I don't believe the ![](https://screenshotscdn.firefoxusercontent.com/images/02576f36-c32d-48bc-913b-3a1822d7125b.png) button will show the next frame!
+
 
 
