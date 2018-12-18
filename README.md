@@ -41,5 +41,9 @@ In contrast to the manual, I don't believe the ![next](https://user-images.githu
 You see the duration timer going up 1 second on every press.
 Also when filming my cheap LED bulb, which I know flickers at 100hz (being on at the positive and the negative peak of the 50Hz sinus wave), I have to press the ![next](https://user-images.githubusercontent.com/8225621/50165405-36b35700-02e5-11e9-8c1d-1e66684b2830.PNG) button 5 times (meaning 5 milliseconds) instead of 10. I think this is because I'm skipping seconds in the '40 second' slow motion video and looking at a lot of on/of cycles instead of one.
 
-
+## Viewing frame by frame
+- get the .MP4 from the SD card (in \PRIVATE\M4ROOT\CLIP\)
+- open it in with [VLC](https://www.videolan.org/)
+- pause the video (space-bar)
+- use 'e' key to go to next frame
 
