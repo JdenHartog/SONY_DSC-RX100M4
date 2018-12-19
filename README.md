@@ -45,7 +45,7 @@ Also when filming my cheap LED bulb, which I know flickers at 100hz (being on at
 - get the .MP4 from the SD card (in \PRIVATE\M4ROOT\CLIP\)
 - open it in with [VLC](https://www.videolan.org/)
 - pause the video (space-bar)
-- use 'e' key to go to next frame
+- use 'e' key to go to next frame <BR>
 Or:
 - open it in with QuickTime
 - use '🡒' key to go to next frame
