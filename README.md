@@ -1,7 +1,7 @@
 # SONY_DSC-RX100M4
-SONY DSC-RX100M4 high speed video considerations!
-[cam](https://user-images.githubusercontent.com/8225621/50221827-b2211100-0396-11e9-8284-7011a39d3337.jpg)
+SONY DSC-RX100M4 high speed video considerations
 
+![cam](https://user-images.githubusercontent.com/8225621/50221827-b2211100-0396-11e9-8284-7011a39d3337.jpg)
 
 ## Introduction
 Below are some considerations for the SONY DSC-RX100M4 camera when using it for high speed video recording.
