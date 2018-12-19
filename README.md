@@ -40,7 +40,7 @@ Now set the HFR (High Frame Rate) from 250 to 1000Hz:
 ## IMPORTANT
 In contrast to the manual, I don't believe the ![next](https://user-images.githubusercontent.com/8225621/50165405-36b35700-02e5-11e9-8c1d-1e66684b2830.PNG) button will **not** show the next frame!
 You see the duration timer going up 1 second on every press.
-Also when filming my cheap LED bulb, which I know flickers at 100hz (being on at the positive and the negative peak of the 50Hz sinus wave), I have to press the ![next](https://user-images.githubusercontent.com/8225621/50165405-36b35700-02e5-11e9-8c1d-1e66684b2830.PNG) button 5 times (meaning 5 milliseconds) instead of 10. I think this is because I'm skipping seconds in the '40 second' slow motion video and looking at a lot of on/of cycles instead of one.
+Also when filming my cheap LED bulb, which I know flickers at 100Hz (being on at the positive and the negative peak of the 50Hz sinus wave), I have to press the ![next](https://user-images.githubusercontent.com/8225621/50165405-36b35700-02e5-11e9-8c1d-1e66684b2830.PNG) button 5 times (meaning 5 milliseconds) instead of 10. I think this is because I'm skipping seconds in the '40 second' slow motion video and looking at a lot of on/of cycles instead of one.
 
 ## Viewing frame by frame
 - get the .MP4 from the SD card (in \PRIVATE\M4ROOT\CLIP\)
@@ -52,4 +52,4 @@ Or:
 - use '🡒' key to go to next frame
   
 ## Example recording
-You can download my cheap LED bulb recording [here]()
+You can download my cheap LED bulb recording [here](https://raw.githubusercontent.com/JdenHartog/SONY_DSC-RX100M4/master/C0010.MP4). In contrast to the old filament light bulb, the LEDs go dark in between the 50Hz sinus min and max. This results in the light flashing at a 100Hz meaning a 10ms period, so 10 frames for a 1000fps recording. 
