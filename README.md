@@ -50,6 +50,9 @@ Also when filming my cheap LED bulb, which I know flickers at 100Hz (being on at
 Or:
 - open it in with QuickTime
 - use '🡒' key to go to next frame
-  
+Or:
+- open it in with Windows Media Player
+- use 'Ctrl'+ play button to go to next frame
+
 ## Example recording
-You can download my cheap LED bulb recording [here](https://raw.githubusercontent.com/JdenHartog/SONY_DSC-RX100M4/master/C0010.MP4). In contrast to the old filament light bulb, the LEDs go dark in between the 50Hz sinus min and max. This results in the light flashing at a 100Hz meaning a 10ms period, so 10 frames for a 1000fps recording. 
+You can download my cheap LED bulb recording [here](https://raw.githubusercontent.com/JdenHartog/SONY_DSC-RX100M4/master/C0010.MP4) (right-click and choose Save as...). In contrast to the old filament light bulb, the LEDs go dark in between the 50Hz sinus min and max. This results in the light flashing at a 100Hz meaning a 10ms period, so 10 frames for a 1000fps recording. 
