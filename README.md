@@ -50,3 +50,6 @@ Also when filming my cheap LED bulb, which I know flickers at 100hz (being on at
 Or:
 - open it in with QuickTime
 - use '🡒' key to go to next frame
+  
+## Example recording
+You can download my cheap LED bulb recording [here]()
