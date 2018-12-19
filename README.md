@@ -49,7 +49,7 @@ Also when filming my cheap LED bulb, which I know flickers at 100Hz (being on at
 - use 'e' key to go to next frame <BR>
 Or:
 - open it in with QuickTime
-- use '🡒' key to go to next frame
+- use 'right' key to go to next frame <BR>
 Or:
 - open it in with Windows Media Player
 - use 'Ctrl'+ play button to go to next frame
